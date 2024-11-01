@@ -1,0 +1,107 @@
+ul {
+    list-style-type: none;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    line-height: 32px;
+    font-size: 24px;
+    color: #2e2f42;
+    margin-left: 16px;
+}
+
+.containers {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 24px;
+    max-width: 392px;
+}
+
+.container-main-1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 16px;
+    height: 264px;
+    background-color: #f6f6fe;
+    border-radius: 8px;
+}
+
+.animals-list {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 16px;
+    margin-top: -25px;
+}
+
+.animals-list-item {
+    border: 1px solid #808080;
+    border-radius: 4px;
+    width: 360px;
+    height: 40px;
+}
+
+.container-main-2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 16px;
+    width: 392px;
+    height: 216px;
+    background-color: #f6f6fe;
+    border-radius: 8px;
+}
+
+.products-list {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 16px;
+    margin-top: -25px;
+}
+
+.products-list-item {
+    border: 1px solid #808080;
+    border-radius: 4px;
+    width: 360px;
+    height: 40px;
+}
+
+.container-main-3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 16px;
+    width: 392px;
+    height: 312px;
+    background-color: #f6f6fe;
+    border-radius: 8px;
+}
+
+.technologies-list {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 16px;
+    margin-top: -25px;
+}
+
+.technologies-list-item {
+    border: 1px solid #808080;
+    border-radius: 4px;
+    width: 360px;
+    height: 40px;
+}
