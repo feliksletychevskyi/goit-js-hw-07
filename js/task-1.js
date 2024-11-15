@@ -1,5 +1,5 @@
-const listCategory = document.querySelectorAll('.containers');
-console.log("Number of categories: " + listCategory.classList);
+const listCategory = document.querySelectorAll('categories');
+console.log("Number of categories: " + listCategory.classList.length);
 
 
 
